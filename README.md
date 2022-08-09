@@ -8,4 +8,4 @@ This is my personal repo for some small, learning data science projects.
 
 **Hands-On Machine Learning with Scikit-Learn Keras & TensorFlow**
 
-Official GitHub Repo: https://gihub.com/ageron/handson-ml2
+Official GitHub Repo: https://github.com/ageron/handson-ml2
